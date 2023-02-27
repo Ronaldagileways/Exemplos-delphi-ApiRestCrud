@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/02/24 15:17:51.000.242,=C:\Users\ronal\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/24 17:00:48.000.683,=C:\Users\ronal\OneDrive\Documentos\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2023/02/24 17:00:48.000.371,=C:\Users\ronal\OneDrive\Documentos\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2023/02/24 17:21:10.000.572,C:\Diario\Ronald\Wk\WKConsole.dproj=C:\Users\ronal\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/02/25 09:27:53.000.884,=C:\Diario\Ronald\Wk\WKData.pas</Transaction>
+    <Transaction>2023/02/25 09:52:15.000.509,=C:\Diario\Ronald\Wk\Unit1.pas</Transaction>
+    <Transaction>2023/02/25 09:52:24.000.220,=C:\Diario\Ronald\Wk\Unit2.pas</Transaction>
+    <Transaction>2023/02/25 09:53:11.000.274,C:\Diario\Ronald\Wk\Unit1.pas=C:\Diario\Ronald\Wk\frmBuscaCEPs.pas</Transaction>
+    <Transaction>2023/02/25 09:53:11.000.274,C:\Diario\Ronald\Wk\Unit1.dfm=C:\Diario\Ronald\Wk\frmBuscaCEPs.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
